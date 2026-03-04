@@ -1,0 +1,8 @@
+pyspark
+bigdl-dllib
+bigdl-orca
+elasticsearch
+pandas
+numpy
+sparkmllib
+scikit-learn
